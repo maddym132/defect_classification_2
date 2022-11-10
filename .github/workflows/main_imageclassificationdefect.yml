@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'imageclassificationDEFECT'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_633662869F18400BA13583156CC1A4EA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13B87580D8E44703AB520EB4852B8EF7 }}
